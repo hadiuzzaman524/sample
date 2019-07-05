@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1560137456 source:e:\level-ll term-l\c++ basic, atik sir\uva10189\main.cpp
+	<iostream>
+	<string.h>
+	<stdio.h>
+
